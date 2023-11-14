@@ -1,0 +1,15 @@
+insert into Theaters (theaterName, location, totalSeat) values ('Trippledex', '07820 Spenser Crossing', 52);
+insert into Theaters (theaterName, location, totalSeat) values ('Zontrax', '876 Elmside Court', 40);
+insert into Theaters (theaterName, location, totalSeat) values ('Redhold', '67 Meadow Vale Avenue', 40);
+insert into Theaters (theaterName, location, totalSeat) values ('Home Ing', '24688 Algoma Junction', 50);
+insert into Theaters (theaterName, location, totalSeat) values ('Namfix', '0 Maywood Point', 36);
+insert into Theaters (theaterName, location, totalSeat) values ('Veribet', '9 Dottie Place', 66);
+insert into Theaters (theaterName, location, totalSeat) values ('Cardguard', '8 Almo Parkway', 49);
+insert into Theaters (theaterName, location, totalSeat) values ('Veribet', '41745 Prairieview Parkway', 62);
+insert into Theaters (theaterName, location, totalSeat) values ('Fintone', '9 Brickson Park Crossing', 51);
+insert into Theaters (theaterName, location, totalSeat) values ('Asoka', '4 Lawn Street', 54);
+insert into Theaters (theaterName, location, totalSeat) values ('Flowdesk', '24919 Bellgrove Parkway', 68);
+insert into Theaters (theaterName, location, totalSeat) values ('Quo Lux', '9 Bultman Junction', 64);
+insert into Theaters (theaterName, location, totalSeat) values ('Keylex', '734 Reindahl Trail', 53);
+insert into Theaters (theaterName, location, totalSeat) values ('Quo Lux', '06651 Esker Circle', 48);
+insert into Theaters (theaterName, location, totalSeat) values ('Home Ing', '97010 Elmside Drive', 58);

@@ -1,0 +1,15 @@
+insert into Genres (genre) values ('Horror');
+insert into Genres (genre) values ('Drama');
+insert into Genres (genre) values ('Comedy');
+insert into Genres (genre) values ('Romance');
+insert into Genres (genre) values ('Action');
+insert into Genres (genre) values ('Thriller');
+insert into Genres (genre) values ('Adventure');
+insert into Genres (genre) values ('War');
+insert into Genres (genre) values ('Love');
+insert into Genres (genre) values ('Family');
+insert into Genres (genre) values ('Sci-fi');
+insert into Genres (genre) values ('Cartoon');
+insert into Genres (genre) values ('Detective');
+insert into Genres (genre) values ('Western');
+insert into Genres (genre) values ('Biography');
