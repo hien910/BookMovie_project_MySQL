@@ -87,3 +87,32 @@ Thiết kế biểu đồ Use Case qua đó khái quát được chức năng, q
 -    evaluationDate date,
 -    FOREIGN KEY (bookingID) REFERENCES Bookings(bookingID)
 #### Chi tiết xem thêm tại đây **[BookingMovie_database_design.XLSX](https://docs.google.com/spreadsheets/d/1tf4uSJdZvCEONUMi_B01MdSr9F-4anID/edit?usp=drive_link&ouid=108740500499233988249&rtpof=true&sd=true").**
+## Kết quả
+- Biết cách tạo bảng, xóa bảng
+- Nắm được cơ bản các câu truy vấn cơ bản
+- Khóa chính, khóa ngoại cùng với mối quan hệ giữa các thực thể trong cơ sở dữ liệu.
+## Cài đặt môi trường
+Cài đặt MySQL cho Windows các hệ điều hành khác tương tự.
+1. Tải MySQL Installer
+
+- Truy cập trang chính thức của MySQL để tải MySQL Installer.
+- Đường dẫn tới trang tải là: **[https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/).**
+2. Chạy MySQL Installer
+
+- Chạy tệp tải về (thường là một tệp .exe) để mở MySQL Installer.
+
+3. Chọn "Custom" để Tùy chọn cài đặt
+
+- Trong cửa sổ Installer, chọn "Custom" để có các tùy chọn cài đặt chi tiết.
+
+4. Chọn Các Thành Phần Cần Cài Đặt
+
+- Chọn các thành phần bạn muốn cài đặt.
+- Thông thường, bạn ít nhất cần cài đặt MySQL Server.
+- Để bắt đầu, bạn cũng có thể cài đặt MySQL Workbench để quản lý cơ sở dữ liệu của mình.
+
+5. Thiết Lập Cấu Hình MySQL Server
+
+- Chọn "Standalone MySQL Server" và tiếp tục.
+- Chọn cổng mà MySQL sẽ sử dụng (thường là 3306).
+- Chọn "Use Strong Password Encryption" và tạo một mật khẩu cho tài khoản root.
