@@ -90,7 +90,7 @@ Thiết kế biểu đồ Use Case qua đó khái quát được chức năng, q
 ## Kết quả
 - Biết cách tạo bảng, xóa bảng
 - Nắm được các câu truy vấn cơ bản
-- Khóa chính, khóa ngoại cùng với mối quan hệ giữa các thực thể trong cơ sở dữ liệu.
+- Hiểu được khóa chính, khóa ngoại cùng với mối quan hệ giữa các thực thể trong cơ sở dữ liệu.
 ## Cài đặt môi trường
 Cài đặt MySQL cho Windows các hệ điều hành khác tương tự.
 1. Tải MySQL Installer
