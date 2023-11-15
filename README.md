@@ -92,7 +92,7 @@ Thiết kế biểu đồ Use Case qua đó khái quát được chức năng, q
 - Nắm được các câu truy vấn cơ bản
 - Hiểu được khóa chính, khóa ngoại cùng với mối quan hệ giữa các thực thể trong cơ sở dữ liệu.
 ## Cài đặt môi trường
-Cài đặt MySQL cho Windows các hệ điều hành khác tương tự.
+Dưới đây là cài đặt MySQL cho Windows, với các hệ điều hành khác thì cài đặt tương tự.
 1. Tải MySQL Installer
 
 - Truy cập trang chính thức của MySQL để tải MySQL Installer.
