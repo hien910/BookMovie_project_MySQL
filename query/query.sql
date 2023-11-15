@@ -44,6 +44,14 @@ select sum(num) as sum ,movieID from NumOfShowMovie
 group by movieID
 order by sum(num) DESC;
 
+-- 7. Thông tin khách hàng đã trả tiền xếp theo số tiền giảm dần
+select sum(Payments.amount) , Customers.customerName, Customers.customerID from Payments
+inner join Bookings  on Payments.bookingID = Bookings.bookingID
+inner join Customers on Bookings.customerID = Customers.customerID
+group by customerID
+order by sum(Payments.amount) DESC;
 
-
-
+-- 8 Thông tin đơn đặt vé nhưng chưa thanh toán
+select * from Bookings
+where bookingID not in (select Payments.bookingID from Payments)
+order by Bookings.bookingID ASC;
